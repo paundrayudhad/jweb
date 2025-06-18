@@ -26,16 +26,7 @@ export default function Hero() {
               </Button>
             </div>
           </div>
-          <div className="flex items-center justify-center">
-            <Image
-              src="/placeholder.svg?height=550&width=550"
-              width={550}
-              height={550}
-              alt="JWeb Hero Image"
-              className="rounded-lg object-cover"
-              priority
-            />
-          </div>
+          
         </div>
       </div>
     </section>
